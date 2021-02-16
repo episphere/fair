@@ -1,2 +1,2 @@
 # fair
-Web-driven FAIR ecosystem for epiSphere
+FAIR traffic lights for Epidemiology data sources
