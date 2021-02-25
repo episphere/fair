@@ -18,7 +18,7 @@ fair.ui=async(
     )=>{
     console.log(`FAIR report for ${url}`) // https://data.cdc.gov/resource/muzy-jte6.json
     let h= '<hr><div style="background-color:silver;width:100%">'
-    h += `URL: <input size="50" id="urlInput"> <button id="startFAIR">Start</button>`
+    h += `URL: <input size="75" id="urlInput"> <button id="startFAIR">Start</button>`
     h += '</div><hr>'
     //h += `<h3>Dereferenceability</h3>`
     h += '<div style="width:100%"><ol id="FAIRchecklist" style="width:100%"></ol></div>'
@@ -29,9 +29,10 @@ fair.ui=async(
         fair.deref(url=fair.parms.url,cont=true)
     }
     startFAIR.onclick=()=>{
-        FAIRchecklist.innerHTML=''
-        fair.parms.url=urlInput.value
-        fair.deref(url=fair.parms.url,cont=true)
+        location.search=`url=${encodeURIComponent(urlInput.value)}`
+        //FAIRchecklist.innerHTML=''
+        //fair.parms.url=urlInput.value
+        //fair.deref(url=fair.parms.url,cont=true)
     }
 
     return el
