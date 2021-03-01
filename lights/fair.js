@@ -73,6 +73,16 @@ fair.deref = async(url=fair.parms.url,cont)=>{
                 ta.value=JSON.stringify(data,null,3)
                 ta.style.width="50em"
                 ta.style.height="30em"
+                // if a connect concept id
+                let matchConnect=urlInput.value.match(/^https\:\/\/episphere\.github\.io\/conceptGithubActions\/jsons\/([0-9]+)\.json/)
+                if(matchConnect){
+                    let liConnect = document.createElement('li')
+                    FAIRchecklist.appendChild(liConnect)
+                    liConnect.innerHTML=`Connect <a href="https://episphere.github.io/conceptGithubActions/web/#${matchConnect[1]}" target="_blank">conceptID#${matchConnect[1]}</a>.`
+                    liConnect.style.color="darkgreen"
+
+                }
+
             })
       })//.catch(err=>console.log('error:',err));
     
