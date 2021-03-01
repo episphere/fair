@@ -1,4 +1,4 @@
-<span style="color:green">&#9851;</span> Live at [episphere.github.io/fair](episphere.github.io/fair) + searcheable [Wiki](https://sites.google.com/mathbiol.org//home)!
+<span style="color:green">&#9851;</span> Live at [episphere.github.io/fair](episphere.github.io/fair) + searcheable [Wiki](https://sites.google.com/mathbiol.org/episphere/home)!
 
  * Next session is <span style="background-color:yellow">[February 24<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2021/2021-02-24-feb)</span>: 1st journal club, separating data science (journal club 9:30-10:30) from hands-on engineering (hackathon 10:30-11:30).
  * **Posdoctoral positions opened**: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543).
