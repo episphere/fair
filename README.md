@@ -6,6 +6,6 @@
 
 ### Other hackathons
 * [ncihub.org](https://ncihub.org/) <-- start here!
-* [cloud4bio](https://cloud4bio.github.io)
-* [biohackathon.org](http://www.biohackathon.org)
+* [cloud4bio](https://cloud4bio.github.io).
+* [biohackathon.org](http://www.biohackathon.org).
 * [biohackathons.github.io](https://biohackathons.github.io) . 
