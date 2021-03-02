@@ -1,6 +1,6 @@
 <h1 style="color:green">FAIR = <sup>1</sup>/<sub>Wrangling</sub></h1>
 
-<span style="color:green">&#9851;</span> Live at [episphere.github.io/fair](https://episphere.github.io/fair) + searcheable [Wiki](https://sites.google.com/view/fair-data/home), [Discussions](https://github.com/episphere/fair/discussions), and, most important, [gitter]()!
+<span style="color:green">&#9851;</span> Live at [episphere.github.io/fair](https://episphere.github.io/fair), with weekly logs kept in a searcheable [Wiki](https://sites.google.com/view/fair-data/home), [Discussions](https://github.com/episphere/fair/discussions), and, most important, [gitter](https://gitter.im/episphere/Fair)! Gitter is a github-bound messaging platform that can be used directly in the browser or [from an App](https://gitter.im/apps).
 
  * Next session is <span style="background-color:yellow">[March 5<sup>th</sup>](https://sites.google.com/view/fair-data/2021/2021-03-05-mar)</span>:
    <br><i>Literate programming and APIs as an exploratory data science research methodology.</i>
