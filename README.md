@@ -10,4 +10,4 @@
 * [ncihub.org](https://ncihub.org/).
 * [cloud4bio](https://cloud4bio.github.io). <-- also @ DCEG !
 * [biohackathon.org](http://www.biohackathon.org).
-* [biohackathons.github.io](https://biohackathons.github.io) . 
+* [biohackathons.github.io](https://biohackathons.github.io). 
