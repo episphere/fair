@@ -7,6 +7,9 @@
  * Webconference at <span style="background-color:yellow">[10:30-11:30 using gotomeeting](https://global.gotomeeting.com/join/751234733)</span>. 
 
 ### Other hackathons
+
+[![Join the chat at https://gitter.im/episphere/Fair](https://badges.gitter.im/episphere/Fair.svg)](https://gitter.im/episphere/Fair?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 * [ncihub.org](https://ncihub.org/).
 * [cloud4bio](https://cloud4bio.github.io). <-- also @ DCEG !
 * [biohackathon.org](http://www.biohackathon.org).
