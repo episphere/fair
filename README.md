@@ -7,7 +7,7 @@
  * Webconference at <span style="background-color:yellow">[10:30-11:30 using gotomeeting](https://global.gotomeeting.com/join/751234733)</span>. 
 
 ### Other hackathons
-* [ncihub.org](https://ncihub.org/) <-- start here!
-* [cloud4bio](https://cloud4bio.github.io).
+* [ncihub.org](https://ncihub.org/).
+* [cloud4bio](https://cloud4bio.github.io). <-- also @ DCEG !
 * [biohackathon.org](http://www.biohackathon.org).
 * [biohackathons.github.io](https://biohackathons.github.io) . 
