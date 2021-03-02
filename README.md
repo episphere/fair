@@ -1,4 +1,4 @@
-<h1 style="background-color:yellow;color:green">FAIR = <sup>1</sup>/<sub>Wrangling</sub><h1>
+<h1 style="background-color:yellow;color:green">FAIR = <sup>1</sup>/<sub>Wrangling</sub></h1>
 
 <span style="color:green">&#9851;</span> Live at [episphere.github.io/fair](https://episphere.github.io/fair) + searcheable [Wiki](https://sites.google.com/view/fair-data/home)!
 
