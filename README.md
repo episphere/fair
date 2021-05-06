@@ -2,7 +2,7 @@
 
 <span style="color:green">&#9851;</span> Live at [episphere.github.io/fair](https://episphere.github.io/fair), with weekly logs kept in a searcheable [Wiki](https://sites.google.com/view/fair-data/home), [Discussions](https://github.com/episphere/fair/discussions), and, most important, [gitter](https://gitter.im/episphere/Fair)! Gitter is a github-bound messaging platform that can be used directly in the browser or [from an App](https://gitter.im/apps).
 
- * Next session is [April 30<sup>rd</sup>](https://sites.google.com/view/fair-data/2021/2021-04-30-apr) - onboarding and researchers using <a href="https://www.rstudio.com/products/rstudio/" target="_blank">RStudio</a> into <a href="https://episphere.github.io/confluence/#home" target="_blank">Confluence</a>.
+ * Next session is [May 7<sup>th</sup>](https://sites.google.com/view/fair-data/2021/2021-05-07-may) - onboarding and researchers using <a href="https://www.rstudio.com/products/rstudio/" target="_blank">RStudio</a> into <a href="https://episphere.github.io/confluence/#home" target="_blank">Confluence</a>.
  * Webconference at <span style="background-color:yellow">[10:30-11:30 using gotomeeting](https://global.gotomeeting.com/join/751234733)</span>. 
 
 [![Join the chat at https://gitter.im/episphere/Fair](https://badges.gitter.im/episphere/Fair.svg)](https://gitter.im/episphere/Fair?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
