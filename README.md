@@ -4,7 +4,7 @@
 
 <h3 style="color:red"> Session postponed to next week. The federal government will recognize tomorrow, Friday, June 18, 2021 as a  holiday </h3>
 
- * Next session is [June 25<sup>th</sup>](https://sites.google.com/view/fair-data/2021/2021-06-18-jun) - [bigQueryR](https://cran.r-project.org/web//packages/bigQueryR/index.html) - as seamless of BoxR? Let's try to finish the loop on BQ analytics for Confluence (and Connect).
+ * Next session is [June 25<sup>th</sup>](https://sites.google.com/view/fair-data/2021/2021-06-25-jun) - [bigQueryR](https://cran.r-project.org/web//packages/bigQueryR/index.html) - as seamless of BoxR? Let's try to finish the loop on BQ analytics for Confluence (and Connect).
  * Webconference at <span style="background-color:yellow">[10:30-11:30 using gotomeeting](https://global.gotomeeting.com/join/751234733)</span>. 
 
 [![Join the chat at https://gitter.im/episphere/Fair](https://badges.gitter.im/episphere/Fair.svg)](https://gitter.im/episphere/Fair?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
