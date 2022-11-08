@@ -1,4 +1,4 @@
-<h1 style="color:green">@<href="https://dceg.cancer.gov">DCEG</a>, FAIR = <sup>1</sup>/<sub>Wrangling</sub></h1>
+<h1 style="color:green">@<a href="https://dceg.cancer.gov">DCEG</a>, FAIR = <sup>1</sup>/<sub>Wrangling</sub></h1>
 
 <span style="color:green">&#9851;</span> Live at [episphere.github.io/fair](https://episphere.github.io/fair), with weekly logs kept in a searcheable [Wiki](https://sites.google.com/view/fair-data/home), [Discussions](https://github.com/episphere/fair/discussions), and, most important, [gitter](https://gitter.im/episphere/Fair)! Gitter is a github-bound messaging platform that can be used directly in the browser or [from an App](https://gitter.im/apps).
 
